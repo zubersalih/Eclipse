@@ -12,3 +12,7 @@ click on the **Pen** icon to change Color Of the backgound.
 # Screenshot
 
 ![Alt text](screenshot.png?raw=true "Title")
+
+# Feature Works
+- [ ] Automatically adjust the opacity with day light
+- [ ] Add keys combination to adjust the opacity without getting to settings
